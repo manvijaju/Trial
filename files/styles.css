@@ -1,1 +1,15 @@
 /* Add your styles here */
+.two-column{
+    background-color: rgb(192, 39, 39);
+    color: rgb(171, 187, 0);
+}
+.right{
+    text-align: left;
+    text-shadow: 0rem;
+}
+.right{
+    font-size: x-large;
+    font-style: italic;
+
+}
+.right
